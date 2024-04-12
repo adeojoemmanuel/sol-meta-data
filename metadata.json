@@ -5,8 +5,8 @@
     "image": "https://raw.githubusercontent.com/adeojoemmanuel/sol-meta-data/main/slack-imgs.png",
     "attributes": [
       {
-        "trait_type": "Item",
-        "value": "Developer Portal"
+        "trait_type": "Extra Item",
+        "value": "Developer UNFK"
       }
     ]
 }
