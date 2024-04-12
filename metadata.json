@@ -1,12 +1,12 @@
 {
     "name": "T-UNFK",
     "symbol": "UNFK",
-    "description": "UNFK Gaming Token",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "description": "TEST UNFK GAME TOKEN",
+    "image": "https://raw.githubusercontent.com/adeojoemmanuel/sol-meta-data/main/slack-imgs.png",
     "attributes": [
       {
         "trait_type": "Item",
         "value": "Developer Portal"
       }
     ]
-  }
+}
